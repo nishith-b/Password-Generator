@@ -41,7 +41,7 @@ npm start
 yarn start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
+Open [http://localhost:5173](http://localhost:5173) to view the app in your browser.
 
 ## Usage
 
